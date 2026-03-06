@@ -1,1 +1,22 @@
+/* * MIT License
+ * Copyright (c) 2026 Blob_raccoon
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in all
+ * copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ * SOFTWARE.
+ */
 !function(){const e=document.createElement("div");e.id="By-Blob_raccoon",e.style.cssText="\n        position: fixed; top: 20px; right: 20px; width: 280px;\n        background: rgba(20, 20, 25, 0.95); color: white;\n        border: 2px solid #a335ee; border-radius: 10px;\n        font-family: 'Segoe UI', Tahoma, sans-serif; z-index: 9999;\n        box-shadow: 0 8px 32px rgba(0,0,0,0.5); padding: 15px;\n        cursor: move; user-select: none;\n    ";e.innerHTML='\n        <div style="display:flex; justify-content:space-between; margin-bottom:10px; border-bottom:1px solid #444; padding-bottom:5px;">\n            <span style="color:#a335ee; font-weight:bold;">🟣 MYTHICAL VALUES</span>\n            <span id="close-gui" style="cursor:pointer; color:#ff4444;">[X]</span>\n        </div>\n        <div id="item-list" style="max-height: 400px; overflow-y: auto;"></div>\n       <div style="font-size: 10px; color: #666; text-align: center; margin-top: 10px;">\n    Created by Blob_raccoon\n       </div>\n    ';const n=e.querySelector("#item-list");[{name:"Meteor",val:"800M"},{name:"Monkey",val:"766M"},{name:"Dark Web",val:"666M"},{name:"Diamond Hat",val:"560M"},{name:"Clown Emoji",val:"500M"},{name:"Kiss",val:"400M"},{name:"Rainbow",val:"362M"},{name:"Penguin",val:"320M"},{name:"Gold Bowling Ball",val:"316M"},{name:"Pink Knight",val:"50M"}].forEach((e=>{const o=document.createElement("div");o.style.cssText="display:flex; justify-content:space-between; padding: 4px 0; font-size: 13px; border-bottom: 1px solid #222;",o.innerHTML=`<span>${e.name}</span><span style="color:#00ff88;">${e.val}</span>`,n.appendChild(o)})),document.body.appendChild(e);let o=!1,t=[0,0];e.onmousedown=n=>{if("close-gui"===n.target.id)return e.remove();o=!0,t=[e.offsetLeft-n.clientX,e.offsetTop-n.clientY]},document.onmousemove=n=>{o&&(e.style.left=n.clientX+t[0]+"px",e.style.top=n.clientY+t[1]+"px")},document.onmouseup=()=>o=!1}();
