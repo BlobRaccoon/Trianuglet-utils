@@ -11,8 +11,8 @@
 // @match        https://tri.pengpowers.xyz/market
 // @run-at       document-start
 // @grant        none
-// @description  added studios
-// @version     1.1
+// @description  fixed studios scroll and updated example script
+// @version     1.2
 // ==/UserScript==
 console.log(`
   /* * MIT License
