@@ -2,7 +2,7 @@
 > by **blob_raccoon**
 
 This repository contains the current pricing index for Triangulets, categorized by capsule type.
-By the way open price is used as the max amount of opens it takes before you get that item
+By the way open price is used as the max amount of tokens you need to spend on a capsule before getting that trian.
 
 | Capsule | Trian | Net Price | Open Price |
 | :--- | :--- | :--- | :--- |
