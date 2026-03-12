@@ -18,7 +18,7 @@ This repository contains the current pricing index for Triangulets, categorized 
 | **Emoji** | Laughing Emoji | -6,466 | 6,666 |
 | **Emoji** | Cold Emoji | -85,414 | 85,714 |
 | **Emoji** | Hot Emoji | -85,414 | 85,714 |
-| **Emoji** | Clown Emoji | 499,000,000 | 1,000,000 |
+| **Emoji** | **Clown Emoji** | **500M (Mythical)** | 1,000,000 |
 | | | | |
 | **Hat** | Blue Cap | -236 | 241 |
 | **Hat** | Green Cap | -236 | 241 |
@@ -30,7 +30,7 @@ This repository contains the current pricing index for Triangulets, categorized 
 | **Hat** | Top Hat | -439 | 514 |
 | **Hat** | Fedora | -3,300 | 3,500 |
 | **Hat** | Golden Top Hat | -174,700 | 175,000 |
-| **Hat** | Diamond Hat | 556,500,000 | 3,500,000 |
+| **Hat** | **Diamond Hat** | **560M (Mythical)** | 3,500,000 |
 | | | | |
 | **OG** | Trixter | -115 | 120 |
 | **OG** | BRP | -115 | 120 |
@@ -40,8 +40,8 @@ This repository contains the current pricing index for Triangulets, categorized 
 | **OG** | EvDogg09 | -2,800 | 3,000 |
 | **OG** | ColControl | -59,700 | 60,000 |
 | **OG** | Bringles | -59,700 | 60,000 |
-| **OG** | monkey | 763,000,000 | 3,000,000 |
-| **OG** | penguinpowers | 763,000,000 | 3,000,000 |
+| **OG** | **monkey** | **766M (Mythical)** | 3,000,000 |
+| **OG** | **penguinpowers** | **320M (Mythical)** | 3,000,000 |
 | | | | |
 | **Hacker** | Hacker | -161 | 166 |
 | **Hacker** | ERROR | -161 | 166 |
@@ -55,7 +55,7 @@ This repository contains the current pricing index for Triangulets, categorized 
 | **Hacker** | Idiot | -2,300 | 2,500 |
 | **Hacker** | Lovely Letter | -49,700 | 50,000 |
 | **Hacker** | Overload | -249,700 | 250,000 |
-| **Hacker** | Dark Web | 663,500,000 | 2,500,000 |
+| **Hacker** | **Dark Web** | **666M (Mythical)** | 2,500,000 |
 | | | | |
 | **Chess** | White Pawn | -126 | 131 |
 | **Chess** | Black Pawn | -126 | 131 |
@@ -83,7 +83,7 @@ This repository contains the current pricing index for Triangulets, categorized 
 | **Space** | Tim the Alien | -83,033 | 83,333 |
 | **Space** | Northern Lights | -83,033 | 83,333 |
 | **Space** | Black Hole | -83,033 | 83,333 |
-| **Space** | Meteor | 797,500,000 | 2,500,000 |
+| **Space** | **Meteor** | **800M (Mythical)** | 2,500,000 |
 | | | | |
 | **Color** | Red | -75 | 80 |
 | **Color** | Blue | -75 | 80 |
@@ -97,7 +97,7 @@ This repository contains the current pricing index for Triangulets, categorized 
 | **Color** | White | -1,800 | 2,000 |
 | **Color** | Silver | -3,700 | 4,000 |
 | **Color** | Gold | -19,700 | 20,000 |
-| **Color** | Rainbow | 360,000,000 | 2,000,000 |
+| **Color** | **Rainbow** | **362M (Mythical)** | 2,000,000 |
 | | | | |
 | **Food** | Watermelon | -106 | 111 |
 | **Food** | Carrot | -106 | 111 |
@@ -116,7 +116,7 @@ This repository contains the current pricing index for Triangulets, categorized 
 | **Food** | Vanilla Cake | -19,800 | 20,000 |
 | **Food** | Chocolate Bar | -21,922 | 22,222 |
 | **Food** | Golden Carrot | -33,033 | 33,333 |
-| **Food** | Kiss | 399,710,145 | 289,855 |
+| **Food** | **Kiss** | **400M (Mythical)** | 289,855 |
 | | | | |
 | **Sports** | Soccer Ball | -100 | 105 |
 | **Sports** | Football | -100 | 105 |
@@ -129,4 +129,4 @@ This repository contains the current pricing index for Triangulets, categorized 
 | **Sports** | Bowling Ball | -925 | 1,000 |
 | **Sports** | Birdie | -3,800 | 4,000 |
 | **Sports** | Beach Ball | -66,366 | 66,666 |
-| **Sports** | Gold Bowling Ball | 315,600,000 | 400,000 |
+| **Sports** | **Gold Bowling Ball** | **316M (Mythical)** | 400,000 |
