@@ -1,4 +1,4 @@
-/ ==UserScript==
+// ==UserScript==
 // @name         Better triangulet
 // @namespace    SixPackNinja & Blob_raccoon
 // @match        https://tri.pengpowers.xyz/posts
@@ -12,7 +12,7 @@
 // @run-at       document-end
 // @grant        none
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
-// @description  1000+ emojis
+// @description  added 1000+ emojis
 // @version      1.4
 // ==/UserScript==
 console.log(`
